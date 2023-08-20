@@ -22,16 +22,17 @@ The Tkinter-based GUI enables user login, signup, and interaction with the syste
 
 2. Run the application:
 
-   ```python main.py
+   ```bash
+   python main.py
 
 The GUI window will open, allowing users to log in, sign up, and receive song recommendations.
 
 ## Usage Instructions
 
-1. Login or Signup: Users can log in using their user ID and password or sign up as new users.
+1. **Login or Signup:** Users can log in using their user ID and password or sign up as new users.
    
-3. Recommendations: After logging in, users can view recommended songs based on their profile.
+2. **Recommendations:** After logging in, users can view recommended songs based on their profile.
    
-5. Update Ratings: Users can update the ratings of songs they've interacted with.
+3. **Update Ratings:** Users can update the ratings of songs they've interacted with.
    
-7. Secure Processing: The system uses privacy-preserving techniques to update profiles and offer recommendations.
+4. **Secure Processing:** The system uses privacy-preserving techniques to update profiles and offer recommendations.
